@@ -1,0 +1,34 @@
+/* footer */
+/* panel=1 */
+footer{
+  margin-top: 200rem;
+}
+.foot-panel1{
+  background-color: silver;
+  color: black;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;                                                                                   
+  font-size: 0.85rem;
+}
+
+/* part-2 */
+
+.foot-panel2{
+  background-color: #222f3d;
+  color: white;
+  height: 400px;
+  display: flex;
+}
+
+ul{
+  margin-top: 30px;
+}
+
+ul a{
+  display: block;
+  font-size: 0.85rem;
+  margin-top: 30px;
+  color: #dddddd;
+}
